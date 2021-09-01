@@ -1,0 +1,28 @@
+Ao contabilizar o número de ocorrências de cada nível de cor em cada imagem e dispor em uma tabela, pode-se estabelecer os histogramas:
+
+f(x,y) 	 n
+0 		 8
+200 	 8
+400 	 6
+512 	 44
+600 	 2
+700 	 6
+800 	 6
+900 	 8
+1023 	 22
+
+g(x,y) 	 n
+0 		 8
+216 	 8
+432 	 6
+553 	 44
+648 	 2
+756 	 6
+864 	 6
+972 	 8
+1023 	 22
+
+Considerando a imagem original dada pela função f(x,y) e a imagem após a mudança de contraste g(x,y), a média de seus histogramas serão:
+
+média(f) = (8*0 + 8*200 + 6*400 + 44*512 + 2*600 + 6*700 + 6*800 + 8*900 + 22*1023)/110 = 603.95
+média(g) = (8*0 + 8*216 + 6*432 + 44*553 + 2*648 + 6*756 + 6*864 + 8*972 + 22*1023)/110 = 635.91
