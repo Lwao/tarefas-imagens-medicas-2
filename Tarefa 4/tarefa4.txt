@@ -1,7 +1,0 @@
-1- Utilizando Octave e Image J  e  uma imagem de sua escolha da pasta Imagens Teste
-
-a) Histograma imagem original no ImageJ (apresente a imagem e o histograma)
-b) Histograma imagem original no Octave ou na linguagem de sua preferencia (apresente a imagem e o histograma)
-c) apresente a média e desvio padrão da imagem original (tanto a calculada automaticamente pelo ImageJ, como a que você calcular pelo Octave ou na linguagem de sua preferencia)
-d) Realce a imagem utilizando equalização do histograma no Image J e no octave ou ou na linguagem de sua preferencia e apresente os resultados respectivos (imagens realçadas  e respsctivos histogramas.
-e) apresente a média e desvio padrão da imagem realçada (tanto a calculada automaticamente pelo ImageJ, como a que você calcular pelo Octave ou na linguagem de sua preferencia)
